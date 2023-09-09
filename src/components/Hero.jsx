@@ -8,7 +8,7 @@ function Hero() {
 
             <button
                 type="button"
-                onClick={() => window.open('https://github.com/ca-r0-l')}
+                onClick={() => window.open('https://github.com/ca-r0-l/ai-summarizer')}
                 className="black_btn"
             >
                 Github
