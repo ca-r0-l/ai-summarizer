@@ -106,7 +106,7 @@ function Demo() {
                     article.summary && (
                         <div className="flex flex-col gap-3">
                             <h2 className="font-satoshi font-bold text-gray-600 text-xl">Article summary</h2>
-                            <div className="summary_box w-[800px]">
+                            <div className="summary_box">
                                 <p className="font-inter font-medium text-base text-gray-500 antialiased leading-relaxed">{article.summary}</p>
                             </div>
                         </div>
